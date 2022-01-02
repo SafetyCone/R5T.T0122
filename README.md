@@ -1,0 +1,2 @@
+# R5T.T0122
+INameSpecification and other common basic specification types.
